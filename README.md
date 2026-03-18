@@ -5,7 +5,7 @@
 ![Dashboard Overview](dashboard.png)
 
 ## 📊 Detailed Analysis
-![Detailed Analysis](dashboard_page2.png)
+![Detailed Analysis](dashboard2.png)
 
 
 ## 🔍 Overview

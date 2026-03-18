@@ -1,5 +1,13 @@
 # 📊 Sales & Customer Insights Dashboard
 
+
+## 📊 Dashboard Overview
+![Dashboard Overview](dashboard.png)
+
+## 📊 Detailed Analysis
+![Detailed Analysis](dashboard_page2.png)
+
+
 ## 🔍 Overview
 This project presents an interactive **Power BI dashboard** designed to analyze sales performance and generate actionable business insights. The dashboard helps stakeholders understand trends, identify high-performing regions and categories, and support data-driven decision-making.
 
